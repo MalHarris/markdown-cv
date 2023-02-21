@@ -31,9 +31,13 @@ __Mesa College__
 __Langan Engineering and Environmental Services Inc__, Irvine
 
 -Created and edited map product deliverables for engineering reports, environmental analyses, site selection 
+
 -Collected GPS and maintenance data for public utilities  
+
 -Assisted with map analysis, creation, and data reduction
+
 -Maintained GIS databases 
+
 -Georeferenced city plansets 
 
 
